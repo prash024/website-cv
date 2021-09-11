@@ -88,8 +88,8 @@ line-height: 0.5;
   left:500px;
 }
 .image-edu{
-  width: 75%;
-  height: 75%;
+  width: 90%;
+  height: 90%;
 }
 .skills{
 
@@ -136,6 +136,8 @@ line-height: 0.5;
 .ach-img{
   width: 30%;
   height: 30%;
+  position: relative;
+  right: 35px;
 
 }
 .ach-text{
